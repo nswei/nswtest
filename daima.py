@@ -17,7 +17,7 @@ def binary_chop(alist, data):
             return True
     return False
 
-
+#######################
 
 #快速排序
 def quick_sort(L):
