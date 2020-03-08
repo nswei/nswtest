@@ -19,6 +19,7 @@ def binary_chop(alist, data):
 
 #######################
 ####第三次修改
+###master change
 
 #快速排序
 def quick_sort(L):
